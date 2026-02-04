@@ -1,3 +1,4 @@
+//deletion an element frim position of element .
 #include<stdio.h>
 int main() {
     int n,pos;
