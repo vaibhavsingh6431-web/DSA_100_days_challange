@@ -41,7 +41,7 @@ int main() {
         }
         else {
             temp->next = newNode;
-            temp = newNode;
+             temp = newNode;
         }
     }
 
@@ -50,7 +50,8 @@ int main() {
     while(temp != NULL) {
         printf("%d ", temp->data);
         temp = temp->next;
-    }
+    
 
     return 0;
+}
 }
