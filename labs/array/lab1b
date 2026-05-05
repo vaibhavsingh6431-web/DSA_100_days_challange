@@ -1,0 +1,5 @@
+/* create 2-D array and take no of rows ,coloums and element form user
+a)Multiplication of two matrices
+b) printing sum of each row and each coloum for a matrix
+check the structure type array where each statemenet type variable has following fields - sapid, name & cgpa 
+the program should print type of those students whose cgpa>=7.5*/
